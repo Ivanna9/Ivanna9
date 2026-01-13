@@ -31,8 +31,11 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanna9&show_icons=true&locale=en&theme=tokyonight" alt="ivanna9 stats" height="150" />
-  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivanna9&layout=compact&theme=tokyonight" alt="ivanna9 languages" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanna9&theme=tokyo-night" width="100%" />
 </p>
 
 <p align="center">
