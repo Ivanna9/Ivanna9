@@ -58,3 +58,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=60&section=footer" width="100%"/>
 </p>
+
+
+<p align="center">
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanna9&show_icons=true&locale=en&theme=tokyonight" alt="ivanna9 stats" height="150" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivanna9&layout=compact&theme=tokyonight" alt="ivanna9 languages" height="150" />
+
+</p>
