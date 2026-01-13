@@ -30,10 +30,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanna9&show_icons=true&locale=en&theme=radical" alt="ivanna9" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanna9&show_icons=true&locale=en&layout=compact&theme=radical" alt="ivanna9" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanna9&show_icons=true&locale=en&theme=tokyonight" alt="ivanna9 stats" height="150" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivanna9&layout=compact&theme=tokyonight" alt="ivanna9 languages" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanna9&theme=radical" alt="ivanna9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanna9&theme=tokyonight" alt="ivanna9 streak" />
 </p>
