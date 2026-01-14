@@ -58,4 +58,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivanna9&layout=compact&theme=tokyonight" alt="ivanna9 languages" height="150" />
 
 </p>
+
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanna9&theme=tokyonight" alt="ivanna9 streak" />
+</p>
