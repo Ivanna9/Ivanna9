@@ -7,7 +7,7 @@
 
 -  telescope: I’m currently working on [fullstackdemo](https://github.com/andreaskueffel/fullstackdemo)
 - 🌱 I’m currently learning **Angular, C#, TS, JS**
-- 💬 **Languages:** Ukrainian (Native), German (B1+), English (B1+), Russian (C1)
+- 💬 **Languages:** Ukrainian (Native), German (B2+), English (B1+), Russian (C2)
 - ⚡ Fun fact: **I love reading books and writing down my dreams**
 
 ---
